@@ -1,7 +1,7 @@
 # CacheSimulator
-Simulador de memória cache, trabalho da matéria Organização Computacional. 
-Professor: Luciano Caimi.
-Alunos: Douglas Rosa, Felipe Nagel.
+<p>Simulador de memória cache, trabalho da matéria Organização Computacional. <p>
+<p>Professor: Luciano Caimi.</p>
+<p>Alunos: Douglas Rosa, Felipe Nagel.</p>
 
 <p align="center">
 <img src="https://github.com/FSNagel/CacheSimulator/blob/master/cache_simulator.gif" />
