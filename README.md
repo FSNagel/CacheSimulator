@@ -3,6 +3,12 @@
 <p>Professor: Luciano Caimi.</p>
 <p>Alunos: Douglas Rosa, Felipe Nagel.</p>
 
+# Tecnologias: 
+- HTML
+- Javascript
+- CSS
+- Bootstrap
+
 <p align="center">
 <img src="https://github.com/FSNagel/CacheSimulator/blob/master/cache_simulator.gif" />
 </p>
