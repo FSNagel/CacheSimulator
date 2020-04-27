@@ -1,13 +1,18 @@
 # CacheSimulator
-<p>Simulador de memória cache, trabalho da matéria Organização Computacional. <p>
+<p>Simulador de memória cache, trabalho da matéria Organização Computacional - 2019/1. Mapeamento Associativo, 
+FIFO(First In, First Out). <p>
 <p>Professor: Dr. Luciano Caimi.</p>
 <p>Alunos: Douglas Rosa, Felipe Nagel.</p>
+
+<a href="https://fsnagel.github.io/cache-simulator/app/" title="Acesse Aqui">Acesse Aqui!</a>
 
 # Tecnologias: 
 - HTML
 - Javascript
 - CSS
 - Bootstrap
+
+<p> Clique nos endereços em azul na memória principal, que o valor do endereço será setado.</p>
 
 <p align="center">
 <img src="https://github.com/FSNagel/CacheSimulator/blob/master/cache_simulator.gif" />
