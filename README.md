@@ -15,7 +15,7 @@ FIFO(First In, First Out). <p>
 <p> Clique nos endereços em azul na memória principal, que o valor do endereço será setado.</p>
 
 <p align="center">
-<img src="https://github.com/FSNagel/CacheSimulator/blob/master/cache_simulator.gif" />
+<img src="https://github.com/FelipeSNagel/CacheSimulator/blob/master/cache_simulator.gif" />
 </p>
 
 # Instruções para implementação
